@@ -13,5 +13,8 @@
 <p>conflict 내보기</p>
 <!-- 수진 -->
 
+<!-- 태연 start -->
+<a href="<%=request.getContextPath()%>/memberList">회원목록</a>
+
 </body>
 </html>
