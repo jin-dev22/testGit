@@ -9,5 +9,9 @@
 <body>
 <h1>test</h1>
 <a href="<%=request.getContextPath()%>/testGit">testGit</a>
+<!-- 수진 -->
+<p>conflict 내보기</p>
+<!-- 수진 -->
+
 </body>
 </html>
